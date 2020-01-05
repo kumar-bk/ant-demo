@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registration New Page</title>
+<title>Registration New old Page</title>
 </head>
 <body>
 
