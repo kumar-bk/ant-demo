@@ -34,7 +34,7 @@
 			</form:select></td>
 		</tr>
 		<tr>
-			<td>About you :</td>
+			<td>About me :</td>
 			<td><form:textarea path="aboutYou" /></td>
 		</tr>
 		<tr>
